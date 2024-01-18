@@ -9,11 +9,4 @@
 # production
 /build
 
-# misc
-.DS_Store
-# /.env
-
-# /.env
-.idea
-
 npm-debug.log*
